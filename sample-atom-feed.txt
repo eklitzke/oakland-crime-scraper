@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:georss="http://www.georss.org/georss"
+      xmlns:local="http://oakland.crimespotting.org/ns">
+    <title>Oakland Crime Feed</title> 
+    <link href="http://oakland.crimespotting.org"/>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:15pm">2008-03-13T22:15:00-07:00</updated>                                                                                                                                                                                                                                                        <entry>
+            <title>VEHICLE THEFT - AUTO</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73014"/>
+            <id>crime:oakland/08-019163/VEHICLETHEFT-AUTO</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:15pm">2008-03-13T22:15:00-07:00</updated>
+            <category term="VEHICLE THEFT" label="Vehicle Theft"/>
+            <georss:point>37.81509 -122.253365</georss:point>
+            <content type="html"><![CDATA[<h3>Vehicle Theft</h3><h4>Thursday, Mar 13, 2008 10:15pm</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73014"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73014.jpg?context=small"/></a></p><p><tt>VEHICLE THEFT - AUTO</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73014">08-019163</a>, beat <a href="http://oakland.crimespotting.org/beat/14X">14X</a>)</tt></p><p>200 block of Euclid Ave, Oakland 94610</p>]]></content>
+        </entry>
+            <entry>
+            <title>ROBBERY/INHABITED DWELLING - STRONGARM (HANDS, FISTS, FEET)</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73013"/>
+            <id>crime:oakland/08-019268/ROBBERY%2FINHABITEDDWELLING-STRONGARM%28HANDS%2CFISTS%2CFEET%29</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="11:40am">2008-03-13T11:40:00-07:00</updated>
+            <category term="ROBBERY" label="Robbery"/>
+            <georss:point>37.801098 -122.234502</georss:point>
+            <content type="html"><![CDATA[<h3>Robbery</h3><h4>Thursday, Mar 13, 2008 11:40am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73013"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73013.jpg?context=small"/></a></p><p><tt>ROBBERY/INHABITED DWELLING - STRONGARM (HANDS, FISTS, FEET)</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73013">08-019268</a>, beat <a href="http://oakland.crimespotting.org/beat/17Y">17Y</a>)</tt></p><p>1100 block of Bayview Ave, Oakland 94610</p>]]></content>
+        </entry>
+            <entry>
+            <title>BURGLARY-FORCIBLE ENTRY</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73012"/>
+            <id>crime:oakland/08-019243/BURGLARY-FORCIBLEENTRY</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:38am">2008-03-13T10:38:00-07:00</updated>
+            <category term="BURGLARY" label="Burglary"/>
+            <georss:point>37.798727 -122.238529</georss:point>
+            <content type="html"><![CDATA[<h3>Burglary</h3><h4>Thursday, Mar 13, 2008 10:38am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73012"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73012.jpg?context=small"/></a></p><p><tt>BURGLARY-FORCIBLE ENTRY</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73012">08-019243</a>, beat <a href="http://oakland.crimespotting.org/beat/17Y">17Y</a>)</tt></p><p>2500 block of 11th Ave, Oakland 94606</p>]]></content>
+        </entry>
+            <entry>
+            <title>BURGLARY-FORCIBLE ENTRY</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73010"/>
+            <id>crime:oakland/08-019315/BURGLARY-FORCIBLEENTRY</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:30am">2008-03-13T10:30:00-07:00</updated>
+            <category term="BURGLARY" label="Burglary"/>
+            <georss:point>37.844831 -122.263027</georss:point>
+            <content type="html"><![CDATA[<h3>Burglary</h3><h4>Thursday, Mar 13, 2008 10:30am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73010"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73010.jpg?context=small"/></a></p><p><tt>BURGLARY-FORCIBLE ENTRY</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Burglary/73010">08-019315</a>, beat <a href="http://oakland.crimespotting.org/beat/11X">11X</a>)</tt></p><p>500 block of 59th St, Oakland 94609</p>]]></content>
+        </entry>
+            <entry>
+            <title>THEFT</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Theft/73011"/>
+            <id>crime:oakland/08-019356/THEFT</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:30am">2008-03-13T10:30:00-07:00</updated>
+            <category term="THEFT" label="Theft"/>
+            <georss:point>37.759667 -122.170033</georss:point>
+            <content type="html"><![CDATA[<h3>Theft</h3><h4>Thursday, Mar 13, 2008 10:30am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Theft/73011"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Theft/73011.jpg?context=small"/></a></p><p><tt>THEFT</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Theft/73011">08-019356</a>, beat <a href="http://oakland.crimespotting.org/beat/35X">35X</a>)</tt></p><p>8200 block of Bancroft Ave, Oakland 94605</p>]]></content>
+        </entry>
+            <entry>
+            <title>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73009"/>
+            <id>crime:oakland/08-019229/POSSESSCONTROLLEDSUBSTANCEPARAPHERNALIA</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="10:00am">2008-03-13T10:00:00-07:00</updated>
+            <category term="NARCOTICS" label="Narcotics"/>
+            <georss:point>37.760924 -122.18877</georss:point>
+            <content type="html"><![CDATA[<h3>Narcotics</h3><h4>Thursday, Mar 13, 2008 10:00am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73009"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73009.jpg?context=small"/></a></p><p><tt>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73009">08-019229</a>, beat <a href="http://oakland.crimespotting.org/beat/30X">30X</a>)</tt></p><p>1400 block of 70th Ave, Oakland 94621</p>]]></content>
+        </entry>
+            <entry>
+            <title>VEHICLE THEFT - AUTO</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73008"/>
+            <id>crime:oakland/08-019202/VEHICLETHEFT-AUTO</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="7:20am">2008-03-13T07:20:00-07:00</updated>
+            <category term="VEHICLE THEFT" label="Vehicle Theft"/>
+            <georss:point>37.811318 -122.278547</georss:point>
+            <content type="html"><![CDATA[<h3>Vehicle Theft</h3><h4>Thursday, Mar 13, 2008 7:20am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73008"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73008.jpg?context=small"/></a></p><p><tt>VEHICLE THEFT - AUTO</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73008">08-019202</a>, beat <a href="http://oakland.crimespotting.org/beat/05X">05X</a>)</tt></p><p>800 block of 19th St, Oakland 94607</p>]]></content>
+        </entry>
+            <entry>
+            <title>VEHICLE THEFT - AUTO</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73007"/>
+            <id>crime:oakland/08-019277/VEHICLETHEFT-AUTO</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="7:00am">2008-03-13T07:00:00-07:00</updated>
+            <category term="VEHICLE THEFT" label="Vehicle Theft"/>
+            <georss:point>37.766216 -122.214085</georss:point>
+            <content type="html"><![CDATA[<h3>Vehicle Theft</h3><h4>Thursday, Mar 13, 2008 7:00am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73007"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73007.jpg?context=small"/></a></p><p><tt>VEHICLE THEFT - AUTO</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73007">08-019277</a>, beat <a href="http://oakland.crimespotting.org/beat/26X">26X</a>)</tt></p><p>800 block of 49th Ave, Oakland 94601</p>]]></content>
+        </entry>
+            <entry>
+            <title>ROBBERY-FIREARM</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73006"/>
+            <id>crime:oakland/08-019179/ROBBERY-FIREARM</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="4:20am">2008-03-13T04:20:00-07:00</updated>
+            <category term="ROBBERY" label="Robbery"/>
+            <georss:point>37.75265 -122.175467</georss:point>
+            <content type="html"><![CDATA[<h3>Robbery</h3><h4>Thursday, Mar 13, 2008 4:20am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73006"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73006.jpg?context=small"/></a></p><p><tt>ROBBERY-FIREARM</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Robbery/73006">08-019179</a>, beat <a href="http://oakland.crimespotting.org/beat/34X">34X</a>)</tt></p><p>1400 block of Auseon Ave, Oakland 94621</p>]]></content>
+        </entry>
+            <entry>
+            <title>POSSESS NARCOTIC CONTROLLED SUBSTANCE</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73005"/>
+            <id>crime:oakland/08-019169/POSSESSNARCOTICCONTROLLEDSUBSTANCE</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="1:55am">2008-03-13T01:55:00-07:00</updated>
+            <category term="NARCOTICS" label="Narcotics"/>
+            <georss:point>37.820124 -122.270883</georss:point>
+            <content type="html"><![CDATA[<h3>Narcotics</h3><h4>Thursday, Mar 13, 2008 1:55am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73005"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73005.jpg?context=small"/></a></p><p><tt>POSSESS NARCOTIC CONTROLLED SUBSTANCE</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73005">08-019169</a>, beat <a href="http://oakland.crimespotting.org/beat/06X">06X</a>)</tt></p><p>3000 block of Martin Luther King Jr Way, Oakland 94609</p>]]></content>
+        </entry>
+            <entry>
+            <title>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73004"/>
+            <id>crime:oakland/08-019169/POSSESSCONTROLLEDSUBSTANCEPARAPHERNALIA</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="1:55am">2008-03-13T01:55:00-07:00</updated>
+            <category term="NARCOTICS" label="Narcotics"/>
+            <georss:point>37.820124 -122.270883</georss:point>
+            <content type="html"><![CDATA[<h3>Narcotics</h3><h4>Thursday, Mar 13, 2008 1:55am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73004"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73004.jpg?context=small"/></a></p><p><tt>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73004">08-019169</a>, beat <a href="http://oakland.crimespotting.org/beat/06X">06X</a>)</tt></p><p>3000 block of Martin Luther King Jr Way, Oakland 94609</p>]]></content>
+        </entry>
+            <entry>
+            <title>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73003"/>
+            <id>crime:oakland/08-019168/POSSESSCONTROLLEDSUBSTANCEPARAPHERNALIA</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="1:51am">2008-03-13T01:51:00-07:00</updated>
+            <category term="NARCOTICS" label="Narcotics"/>
+            <georss:point>37.843736 -122.261433</georss:point>
+            <content type="html"><![CDATA[<h3>Narcotics</h3><h4>Thursday, Mar 13, 2008 1:51am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73003"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73003.jpg?context=small"/></a></p><p><tt>POSSESS CONTROLLED SUBSTANCE PARAPHERNALIA</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Narcotics/73003">08-019168</a>, beat <a href="http://oakland.crimespotting.org/beat/12Y">12Y</a>)</tt></p><p>5700 block of Telegraph Ave, Oakland 94609</p>]]></content>
+        </entry>
+            <entry>
+            <title>FORCE/ADW-OTHER DANGEROUS WEAPON:GBI</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Aggravated_Assault/73002"/>
+            <id>crime:oakland/08-019171/FORCE%2FADW-OTHERDANGEROUSWEAPON%3AGBI</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="1:45am">2008-03-13T01:45:00-07:00</updated>
+            <category term="AGGRAVATED ASSAULT" label="Aggravated Assault"/>
+            <georss:point>37.766189 -122.176535</georss:point>
+            <content type="html"><![CDATA[<h3>Aggravated Assault</h3><h4>Thursday, Mar 13, 2008 1:45am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Aggravated_Assault/73002"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Aggravated_Assault/73002.jpg?context=small"/></a></p><p><tt>FORCE/ADW-OTHER DANGEROUS WEAPON:GBI</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Aggravated_Assault/73002">08-019171</a>, beat <a href="http://oakland.crimespotting.org/beat/30X">30X</a>)</tt></p><p>Bancroft Ave &amp; 73rd Ave, Oakland, CA 94605, USA</p>]]></content>
+        </entry>
+            <entry>
+            <title>VANDALISM [$400 TO $5,000]</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/73001"/>
+            <id>crime:oakland/08-019167/VANDALISM%5B%24400TO%245%2C000%5D</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="12:40am">2008-03-13T00:40:00-07:00</updated>
+            <category term="VANDALISM" label="Vandalism"/>
+            <georss:point>37.797028 -122.269921</georss:point>
+            <content type="html"><![CDATA[<h3>Vandalism</h3><h4>Thursday, Mar 13, 2008 12:40am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/73001"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/73001.jpg?context=small"/></a></p><p><tt>VANDALISM [$400 TO $5,000]</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/73001">08-019167</a>, beat <a href="http://oakland.crimespotting.org/beat/03X">03X</a>)</tt></p><p>200 block of 6th St, Oakland 94607</p>]]></content>
+        </entry>
+            <entry>
+            <title>VEHICLE THEFT - AUTO</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73000"/>
+            <id>crime:oakland/08-019175/VEHICLETHEFT-AUTO</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="12:30am">2008-03-13T00:30:00-07:00</updated>
+            <category term="VEHICLE THEFT" label="Vehicle Theft"/>
+            <georss:point>37.794358 -122.209643</georss:point>
+            <content type="html"><![CDATA[<h3>Vehicle Theft</h3><h4>Thursday, Mar 13, 2008 12:30am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73000"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73000.jpg?context=small"/></a></p><p><tt>VEHICLE THEFT - AUTO</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/73000">08-019175</a>, beat <a href="http://oakland.crimespotting.org/beat/21Y">21Y</a>)</tt></p><p>3100 block of Texas St, Oakland 94602</p>]]></content>
+        </entry>
+            <entry>
+            <title>VEHICLE THEFT - AUTO</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/72999"/>
+            <id>crime:oakland/08-019186/VEHICLETHEFT-AUTO</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="12:20am">2008-03-13T00:20:00-07:00</updated>
+            <category term="VEHICLE THEFT" label="Vehicle Theft"/>
+            <georss:point>37.80052 -122.242536</georss:point>
+            <content type="html"><![CDATA[<h3>Vehicle Theft</h3><h4>Thursday, Mar 13, 2008 12:20am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/72999"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/72999.jpg?context=small"/></a></p><p><tt>VEHICLE THEFT - AUTO</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vehicle_Theft/72999">08-019186</a>, beat <a href="http://oakland.crimespotting.org/beat/17Y">17Y</a>)</tt></p><p>700 block of E 24th St, Oakland 94606</p>]]></content>
+        </entry>
+            <entry>
+            <title>VANDALISM</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/72998"/>
+            <id>crime:oakland/08-019270/VANDALISM</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="12:00am">2008-03-13T00:00:00-07:00</updated>
+            <category term="VANDALISM" label="Vandalism"/>
+            <georss:point>37.813491 -122.26859</georss:point>
+            <content type="html"><![CDATA[<h3>Vandalism</h3><h4>Thursday, Mar 13, 2008 12:00am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/72998"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/72998.jpg?context=small"/></a></p><p><tt>VANDALISM</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Vandalism/72998">08-019270</a>, beat <a href="http://oakland.crimespotting.org/beat/08X">08X</a>)</tt></p><p>2300 block of Telegraph Ave, Oakland 94612</p>]]></content>
+        </entry>
+            <entry>
+            <title>DISTURB THE PEACE</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-13/Disturbing_The_Peace/72997"/>
+            <id>crime:oakland/08-019304/DISTURBTHEPEACE</id>
+            <updated local:date="Thursday, Mar 13, 2008" local:time="12:00am">2008-03-13T00:00:00-07:00</updated>
+            <category term="DISTURBING THE PEACE" label="Disturbing the Peace"/>
+            <georss:point>37.765557 -122.162278</georss:point>
+            <content type="html"><![CDATA[<h3>Disturbing the Peace</h3><h4>Thursday, Mar 13, 2008 12:00am</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-13/Disturbing_The_Peace/72997"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-13/Disturbing_The_Peace/72997.jpg?context=small"/></a></p><p><tt>DISTURB THE PEACE</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-13/Disturbing_The_Peace/72997">08-019304</a>, beat <a href="http://oakland.crimespotting.org/beat/30Y">30Y</a>)</tt></p><p>8000 block of Hillmont Dr, Oakland 94605</p>]]></content>
+        </entry>
+            <entry>
+            <title>ROBBERY-FIREARM</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-12/Robbery/73074"/>
+            <id>crime:oakland/08-019154/ROBBERY-FIREARM</id>
+            <updated local:date="Wednesday, Mar 12, 2008" local:time="10:30pm">2008-03-12T22:30:00-07:00</updated>
+            <category term="ROBBERY" label="Robbery"/>
+            <georss:point>37.842214 -122.261564</georss:point>
+            <content type="html"><![CDATA[<h3>Robbery</h3><h4>Wednesday, Mar 12, 2008 10:30pm</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-12/Robbery/73074"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-12/Robbery/73074.jpg?context=small"/></a></p><p><tt>ROBBERY-FIREARM</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-12/Robbery/73074">08-019154</a>, beat <a href="http://oakland.crimespotting.org/beat/12X">12X</a>)</tt></p><p>5600 block of Telegraph Ave, Oakland 94609</p>]]></content>
+        </entry>
+            <entry>
+            <title>SHOPLIFT</title>
+            <link rel="alternate" href="http://oakland.crimespotting.org/crime/2008-03-12/Theft/73073"/>
+            <id>crime:oakland/08-019159/SHOPLIFT</id>
+            <updated local:date="Wednesday, Mar 12, 2008" local:time="10:15pm">2008-03-12T22:15:00-07:00</updated>
+            <category term="THEFT" label="Theft"/>
+            <georss:point>37.836881 -122.262306</georss:point>
+            <content type="html"><![CDATA[<h3>Theft</h3><h4>Wednesday, Mar 12, 2008 10:15pm</h4><p><a href="http://oakland.crimespotting.org/crime/2008-03-12/Theft/73073"><img border="1" src="http://oakland.crimespotting.org/crime/2008-03-12/Theft/73073.jpg?context=small"/></a></p><p><tt>SHOPLIFT</tt> <tt style="white-space: nowrap;">(<a href="http://oakland.crimespotting.org/crime/2008-03-12/Theft/73073">08-019159</a>, beat <a href="http://oakland.crimespotting.org/beat/12X">12X</a>)</tt></p><p>5000 block of Telegraph Ave, Oakland 94609</p>]]></content>
+        </entry>
+    </feed>
