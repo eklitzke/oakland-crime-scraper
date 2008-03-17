@@ -1,3 +1,5 @@
+-- for sqlite (use like sqlite --init schema-definitions.sql foo.db)
+
 CREATE TABLE IF NOT EXISTS atom_feed (
 	id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
 	cs_guid TEXT,
